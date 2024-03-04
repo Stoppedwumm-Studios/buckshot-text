@@ -1,7 +1,6 @@
 
 from random import randint
 from os import system
-import keras
 items = ["beer", "saw", "cigarettes", "magnifying glass", "handcuffs"]
 gun = []
 
